@@ -19,9 +19,6 @@ showCustomSharer("facebook,twitter,email,pinterest,linkedin,whatsapp,telegram", 
 ```
 
 simpleShare.js by habibieamrullah@gmail.com
-
-Watch my videos on https://www.youtube.com/ThirteeNov/
-
-Visit my blog http://thirteenov.ciihuy.com/
-
-Powered by https://sharingbuttons.io/
+- Watch my videos on https://www.youtube.com/ThirteeNov/
+- Visit my blog http://thirteenov.ciihuy.com/
+- Powered by https://sharingbuttons.io/
