@@ -2,7 +2,7 @@
 Easy way to add social share buttons with JavaScript
 
 To use it, just include the script this way: 
-`<script src="https://codes.ciihuy.com/simpleshare/simpleShare.js"></script>`
+  <script src="https://codes.ciihuy.com/simpleshare/simpleShare.js"></script>
 
 Then to show the buttons, you can do one of these two ways:
 
