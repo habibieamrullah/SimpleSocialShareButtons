@@ -17,6 +17,7 @@ The second way, in addition it takes another two parameters, custom URL you want
 ```
 showCustomSharer("facebook,twitter,email,pinterest,linkedin,whatsapp,telegram", "https://google.com/", "A cool search engine...");
 ```
+Watch the tutorial video (in Bahasa Indonesia): https://youtu.be/yCxF6YyjMHU
 
 ### More info?
 - simpleShare.js by habibieamrullah@gmail.com
